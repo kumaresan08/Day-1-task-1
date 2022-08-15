@@ -1,0 +1,3 @@
+document												window
+It is the object of window property.							It is the object of the browser.
+All the tags, elements with attributes in HTML are part of the document.	Global objects, functions, and variables of JavaScript are members of the window object.
